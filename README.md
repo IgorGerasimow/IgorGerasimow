@@ -34,7 +34,7 @@ CI/CD: 10 years of experience implementing pipelines with Jenkins, GitLab CI, Ar
 
 
 
-Knowlage and usage of 12-factor app pattrns, Cloud native, event-based architecture and syntetic monitoring
+Deep knowledge and usage of 12-factor app pattrns, Cloud native, event-based architecture and syntetic monitoring
 
 
 
