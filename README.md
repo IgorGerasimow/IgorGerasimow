@@ -11,6 +11,7 @@ in solving complex problems both independently and as part of a team.
 
 Delivery, design and teaching, migration to/from clouds.
 
+
 ## Technical Highlights
 
 
@@ -52,3 +53,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 - I'm good in Technical Evangelism (e.g., sharing best practices, mentoring)
 
+Please take a close look on history of projects and details about technology stack right here https://github.com/IgorGerasimow/cv
