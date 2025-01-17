@@ -12,15 +12,27 @@ in solving complex problems both independently and as part of a team.
 Delivery, design and teaching, migration to/from clouds.
 
 ## Technical Highlights
+
+
 Linux: 10+ years of experience (Ubuntu/Debian preferred).
+
+
 AWS: ~10 years of day-to-day usage across various AWS services (EKS, EC2, RDS, EFS, CloudAPI, etc.).
+
+
 GCP: ~5 years of experience (GKE, Functions, Athnos, SQL etc).
+
+
 Kubernetes: 5 years of usage across EKS, GKE, kops, kubespray (~250 nodes). Implemented dynamic/PR-based environments, KEDA, Karpenter, custom scaling solutions.
 IAC: 10 years of daily usage applying best practices (small changes, PR-based, separate state modules, thorough documentation). Created custom modules (e.g., platform “auth stack” with ElastiCache, K8s app, API Gateway, S3).
     Terraform/Terragrunt
     Docker-compose 
     Ansible
+
+
 CI/CD: 10 years of experience implementing pipelines with Jenkins, GitLab CI, ArgoCD, Flux. Fully covered CI/CD for microservices oriented and event based platforms.
+
+
 
 Knowlage and usage of 12-factor app pattrns, Cloud native, event-based architecture and syntetic monitoring
 
