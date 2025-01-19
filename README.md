@@ -39,11 +39,6 @@ Deep knowledge and usage of 12-factor app pattrns, Cloud native, event-based arc
 
 
 
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on NDA company
 - 🌱 I’m currently learning SDN, project management 
 - 🤔 I’m looking for help with ...
