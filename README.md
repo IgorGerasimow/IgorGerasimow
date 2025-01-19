@@ -41,7 +41,6 @@ Deep knowledge and usage of 12-factor app pattrns, Cloud native, event-based arc
 
 
 
-**IgorGerasimow/IgorGerasimow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
