@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-Lead DevOps Engineer with over 10 years of experience
+# Lead DevOps Engineer with over 10 years of experience
 
-Expertise: Designing, developing, and maintaining high-load distributed systems, microservices, and CI/CD pipelines.
-Focus: Automation, cloud technologies, and best practices to ensure efficient and secure development cycles.
-Experience: Delivered projects in DeFi and RTB advertising sectors that demand resilience and scalability.
-Personal Qualities: Diligence, responsibility, and the ability to solve complex problems both independently and within a team.
+- **Expertise:** Designing, developing, and maintaining high-load distributed systems, microservices, and CI/CD pipelines.
+- **Focus:** Automation, cloud technologies, and best practices to ensure efficient and secure development cycles.
+- **Experience:** Delivered projects in DeFi and RTB advertising sectors that demand resilience and scalability.
+- **Personal Qualities:** Diligence, responsibility, and the ability to solve complex problems both independently and within a team.
+
 Ready to deliver innovative solutions and process optimizations for any large-scale project.
+
 
 
 ## Core Competencies
