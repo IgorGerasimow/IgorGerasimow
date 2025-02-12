@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-Senior DevOps Engineer with over 10 years of software engineering and DevOps experience. Adept at designing, building, and 
-maintaining high-load distributed projects, microservices, and CI/CD pipelines. Passionate about automation, cloud-native 
-best practices, and ensuring efficient and secure development cycles. Known for diligence, responsibility, and a keen interest 
-in solving complex problems both independently and as part of a team.
+Lead DevOps Engineer with over 10 years of experience
+
+Expertise: Designing, developing, and maintaining high-load distributed systems, microservices, and CI/CD pipelines.
+Focus: Automation, cloud technologies, and best practices to ensure efficient and secure development cycles.
+Experience: Delivered projects in DeFi and RTB advertising sectors that demand resilience and scalability.
+Personal Qualities: Diligence, responsibility, and the ability to solve complex problems both independently and within a team.
+Ready to deliver innovative solutions and process optimizations for any large-scale project.
 
 
 ## Core Competencies
@@ -41,7 +44,6 @@ Deep knowledge and usage of 12-factor app pattrns, Cloud native, event-based arc
 
 - 🔭 I’m currently working on NDA company
 - 🌱 I’m currently learning SDN, project management 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Cloud design
 - 📫 How to reach me: write to gerasimowigor@gmail.com
 - ⚡ Fun fact: 
