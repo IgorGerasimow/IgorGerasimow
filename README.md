@@ -32,4 +32,4 @@ Deep knowledge and usage of 12-factor app pattrns, Cloud native, event-based arc
 - ⚡ Fun fact: 
 - I'm good in Technical Evangelism (e.g., sharing best practices, mentoring)
 
-Please take a close look on history of projects and details about technology stack right here https://github.com/IgorGerasimow/cv
+Please take a close look on history of projects and details about technology stack right here https://github.com/IgorGerasimow/portfolio
