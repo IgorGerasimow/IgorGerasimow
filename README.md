@@ -11,3 +11,6 @@ What I value:
  • Honest communication, low ego, high ownership
 
 I’m looking ( might be ) for challenging and bold projects — places where seniority means clarity, not constant firefighting.
+
+
+Work code exampless are here https://github.com/IgorGerasimow/portfolio
